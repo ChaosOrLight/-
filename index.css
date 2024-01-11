@@ -1,0 +1,37 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.navbar .navbar-brand img {
+    width: 30px;
+    height: 30px;
+}
+
+li a {
+    color: yellow;
+    font-size: 25px;
+}
+
+li a:hover {
+    background-color: lightyellow;
+}
+
+.welcome h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.text .title {
+
+    font-size: 50px;
+    color: aqua;
+}
+
+.text p {
+    font-size: 30px;
+    color: blue;
+}
